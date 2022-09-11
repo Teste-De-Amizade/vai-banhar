@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: rgb(249, 252, 62);
+}
+h1{
+    font-size: 2rem;
+    margin: 0;
+}
+button{
+    width: calc(50px - 0.5vw);
+    margin: auto;
+    padding: 0.1%;
+    position: relative;
+    font-size: calc(15px - 0.5vw);
+    clear: both;
+}
+img{
+    display: block;
+    margin: 10px auto 10px auto;
+    margin-bottom: 10px;
+    width: 40%;
+}
+p{
+    font-size: 2rem;
+    margin: 0;
+}
