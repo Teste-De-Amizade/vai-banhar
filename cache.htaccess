@@ -1,0 +1,2 @@
+# Cache all files on this folder at most for 30 seconds.
+Header set Cache-Control "max-age=30, public"
